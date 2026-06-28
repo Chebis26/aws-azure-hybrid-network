@@ -5,7 +5,7 @@
 [![Megaport](https://img.shields.io/badge/Megaport-VXC-E5004C)](https://www.megaport.com/)
 [![Terraform](https://img.shields.io/badge/Terraform-1.7+-623CE4?logo=terraform)](https://www.terraform.io/)
 
-> **JD Alignment:** "Hands-on experience implementing hybrid cloud connectivity using AWS Transit Gateway and Azure ExpressRoute" + "Working knowledge of Megaport services including VXC provisioning"
+> **Hybrid Network:** "Project implementing hybrid cloud connectivity using AWS Transit Gateway and Azure ExpressRoute" + "Working knowledge of Megaport services including VXC provisioning"
 
 End-to-end hybrid network connecting on-premises data center, AWS (Transit Gateway + Direct Connect), and Azure (ExpressRoute) through a Megaport Cloud Router (MCR) — with BGP routing, redundant paths, and full Terraform automation.
 
